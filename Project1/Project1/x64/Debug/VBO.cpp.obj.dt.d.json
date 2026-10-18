@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yulim\\documents\\lwjdl\\project1\\vbo.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\yulim\\documents\\lwjdl\\project1\\vbo.h",
+            "c:\\users\\yulim\\documents\\lwjdl\\project1\\libraries\\include\\include\\glad\\glad.h",
+            "c:\\users\\yulim\\documents\\lwjdl\\project1\\libraries\\include\\include\\khr\\khrplatform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

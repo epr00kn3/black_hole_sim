@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Final\\x64\\Debug\\black_hole.obj",
+            "outputs": [
+                "Final\\x64\\Debug\\black_hole.cpp.obj.dt.module.json",
+                "Final\\x64\\Debug\\black_hole.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

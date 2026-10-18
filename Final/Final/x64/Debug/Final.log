@@ -1,0 +1,4 @@
+﻿  black_hole.cpp
+C:\Users\yulim\Documents\LWJDL\Final\black_hole.cpp(88,27): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yulim\Documents\LWJDL\Final\black_hole.cpp(88,24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Final.vcxproj -> C:\Users\yulim\Documents\LWJDL\Final\x64\Debug\Final.exe

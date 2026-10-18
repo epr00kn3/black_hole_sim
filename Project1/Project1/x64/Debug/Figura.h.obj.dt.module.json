@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project1\\x64\\Debug\\Figura.obj",
+            "outputs": [
+                "Project1\\x64\\Debug\\Figura.h.obj.dt.module.json",
+                "Project1\\x64\\Debug\\Figura.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

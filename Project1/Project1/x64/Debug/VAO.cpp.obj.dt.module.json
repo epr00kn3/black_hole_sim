@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project1\\x64\\Debug\\VAO.obj",
+            "outputs": [
+                "Project1\\x64\\Debug\\VAO.cpp.obj.dt.module.json",
+                "Project1\\x64\\Debug\\VAO.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Geometria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:Geometria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Estrella.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:Estrella.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Triangulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:Triangulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030B722B-EAA4-477A-97D8-2A4FB5864DBC}|Project1.vcxproj|solutionrelative:Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T19:06:09.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-23T20:20:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.frag",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-17T19:14:08.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geometria.h",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Geometria.h",
+              "RelativeDocumentMoniker": "Geometria.h",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Geometria.h",
+              "RelativeToolTip": "Geometria.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-24T15:55:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estrella.h",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Estrella.h",
+              "RelativeDocumentMoniker": "Estrella.h",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Estrella.h",
+              "RelativeToolTip": "Estrella.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-23T22:48:46.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cuadrado.h",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Cuadrado.h",
+              "RelativeDocumentMoniker": "Cuadrado.h",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Cuadrado.h",
+              "RelativeToolTip": "Cuadrado.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-23T22:27:59.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangulo.h",
+              "DocumentMoniker": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Triangulo.h",
+              "RelativeDocumentMoniker": "Triangulo.h",
+              "ToolTip": "C:\\Users\\yulim\\Documents\\LWJDL\\Project1\\Triangulo.h",
+              "RelativeToolTip": "Triangulo.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-23T22:26:43.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

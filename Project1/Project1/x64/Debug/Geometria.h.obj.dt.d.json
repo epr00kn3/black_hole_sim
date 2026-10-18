@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yulim\\documents\\lwjdl\\project1\\geometria.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\yulim\\documents\\lwjdl\\project1\\libraries\\include\\include\\glad\\glad.h",
+            "c:\\users\\yulim\\documents\\lwjdl\\project1\\libraries\\include\\include\\khr\\khrplatform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
